@@ -1,0 +1,4 @@
+//arquivos que não devem ser enviados para o repositório
+
+node_modules
+.env
